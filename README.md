@@ -15,6 +15,9 @@ A _possibly_ funny fact: When I tried to use my bot **to auto-delete things save
 - **Designing and implementing a programming language** _without_ using tools like [ANTLR](https://github.com/antlr/antlr4), [PLY](https://github.com/dabeaz/ply), or any known tool to do so.\
   _Python, Git — [Link](https://github.com/sheikhartin/farr)_
 
+- **A bytecode interpreter** _for mathematical expressions_. This project was made to better understand _bytecode virtual machines_ and _the damn Go programming language_!\
+  _Go, Git — [Link](https://github.com/sheikhartin/bytecode-based-calculator)_
+
 - To get **a deeper understanding of neural networks**, I decided to implement it _almost_ **from scratch**.\
   _Python, NumPy, Git — [Link](https://github.com/sheikhartin/notebooks-everywhere/blob/develop/Multilayer_Perceptron_From_Scratch.ipynb)_
 
