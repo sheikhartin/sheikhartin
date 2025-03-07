@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/da8bc1ad-418a-4fd2-88a2-74526683ab43" width="20%" align="right" />
+<img src="https://github.com/user-attachments/assets/ef2cfe68-9cdd-4a17-82b9-b91c306163a6" alt="An image from Civitai: https://civitai.com/images/60936335" width="20%" align="right" />
 
 ### That’s Right, I’m Artin!
 
@@ -11,6 +11,9 @@ These are other bridges between you and me:
 A _possibly_ funny fact: When I tried to use my bot **to auto-delete things saved on LinkedIn, I got blocked**... And at least _I don't have access to it until I get my passport_!
 
 #### Best Experiences
+
+- Orc Clash is **a simple platformer game project I've created as a beginner.** I've learned a lot about game development while working on it, so I decided to share it publicly for other developers to use.\
+  _Godot, C#, GDScript — [repository](https://github.com/sheikhartin/orc-clash), [playable versions on Itch](https://sheikhartin.itch.io/orc-clash)_
 
 - This project is **for people who want to compare everything** in a playful and entertaining manner.\
   _FastAPI, PostgreSQL, ReactJS, Bulma CSS — [back-end repository](https://github.com/sheikhartin/thinga), [front-end repository](https://github.com/sheikhartin/thinga-website)_
