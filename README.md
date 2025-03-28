@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/ef2cfe68-9cdd-4a17-82b9-b91c306163a6" alt="An image from Civitai: https://civitai.com/images/60936335" width="25%" align="right" />
 
-### That’s Right, I’m Artin!
+### Yep, that’s me, Artin!
 
 I am _very_ interested in **designing and implementing** useful and/or everyday software **from scratch to gain new and deep experiences**, and _maybe_ even improve them!
 
