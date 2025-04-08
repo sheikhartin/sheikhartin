@@ -62,5 +62,5 @@ A _possibly_ funny fact: When I tried to use my bot **to auto-delete things save
 
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 
-I also have some fun little projects that you can check out on my GitHub Gists:  
+I also have some fun little projects that you can check out on my GitHub gists:\
 https://gist.github.com/sheikhartin
